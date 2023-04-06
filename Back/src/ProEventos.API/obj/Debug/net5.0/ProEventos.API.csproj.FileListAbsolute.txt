@@ -55,3 +55,7 @@ C:\Users\ramon\Documents\GitHub\ProEventos\Back\src\ProEventos.API\bin\Debug\net
 C:\Users\ramon\Documents\GitHub\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\ramon\Documents\GitHub\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\ramon\Documents\GitHub\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
