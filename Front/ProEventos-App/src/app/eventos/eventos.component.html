@@ -7,13 +7,13 @@
     class="form-control"
     id="input"
     placeholder="Digite algo..."
-    [(ngModel)]="filterList"
+    [(ngModel)]="filterInitialList"
     >
     <button type="submit" class="btn btn-outline-secondary">Buscar</button>
 </div>
 
 <h3>
-  Filtro: {{filterList}}
+  Filtro: {{filterInitialList}}
 </h3>
 <table class="table table-striped">
   <thead class="table-dark">
@@ -33,7 +33,7 @@
     </tr>
   </thead>
   <tbody *ngIf="eventos && eventos.length">
-    <tr *ngFor="let evento of eventos">
+    <tr *ngFor="let evento of filterEventos">
       <td>
         <img [collapse]="!showImg" [isAnimated]="true"
          src="/assets/{{evento.imagemURL}}" alt="" [style.width.px]="widthImg" [style.margin]="marginImg" />
