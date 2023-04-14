@@ -59,3 +59,9 @@ C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net
 C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\ramon\Documents\GitHub\ProEventos\back\src\ProEventos.Api\bin\Debug\net5.0\ProEventos.Persistence.pdb
