@@ -1,13 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 using ProEventos.Domain;
 
-namespace ProEventos.Persistence
+namespace ProEventos.Persistence.Contexto
 {
     public class ProEventosContext : DbContext
     {
-        public ProEventosContext(DbContextOptions<ProEventosContext> options): base(options)
+        public ProEventosContext(DbContextOptions<ProEventosContext> options) : base(options)
         {
-            
+
         }
         public DbSet<Evento> Eventos { get; set; }
         public DbSet<Lote> Lotes { get; set; }
@@ -20,6 +20,6 @@ namespace ProEventos.Persistence
 
             modelBuilder.Entity<PalestrantesEventos>().HasKey(PE => new { PE.EventoId, PE.PalestranteId });
         }
-    
+
     }
 }

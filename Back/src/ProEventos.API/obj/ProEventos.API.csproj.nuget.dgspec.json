@@ -103,14 +103,14 @@
         }
       }
     },
-    "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {
+    "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
         "projectName": "ProEventos.Application",
-        "projectPath": "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+        "projectPath": "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
         "packagesPath": "C:\\Users\\ramon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\obj\\",
+        "outputPath": "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ramon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -127,11 +127,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-                "projectPath": "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+              "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+                "projectPath": "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
               },
-              "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
-                "projectPath": "c:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
+              "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
+                "projectPath": "C:\\Users\\ramon\\Documents\\GitHub\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
               }
             }
           }
